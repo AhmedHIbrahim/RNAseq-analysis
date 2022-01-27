@@ -1,0 +1,109 @@
+nohup: ignoring input
+SRR16798081
+Ad-Rbm10
+rep2
+18487033 reads; of these:
+  18487033 (100.00%) were paired; of these:
+    2109624 (11.41%) aligned concordantly 0 times
+    15620180 (84.49%) aligned concordantly exactly 1 time
+    757229 (4.10%) aligned concordantly >1 times
+    ----
+    2109624 pairs aligned concordantly 0 times; of these:
+      751637 (35.63%) aligned discordantly 1 time
+    ----
+    1357987 pairs aligned 0 times concordantly or discordantly; of these:
+      2715974 mates make up the pairs; of these:
+        1462347 (53.84%) aligned 0 times
+        1117066 (41.13%) aligned exactly 1 time
+        136561 (5.03%) aligned >1 times
+96.04% overall alignment rate
+SRR16798080
+Ad-Rbm10
+rep1
+24695283 reads; of these:
+  24695283 (100.00%) were paired; of these:
+    4060647 (16.44%) aligned concordantly 0 times
+    19468709 (78.84%) aligned concordantly exactly 1 time
+    1165927 (4.72%) aligned concordantly >1 times
+    ----
+    4060647 pairs aligned concordantly 0 times; of these:
+      2008178 (49.45%) aligned discordantly 1 time
+    ----
+    2052469 pairs aligned 0 times concordantly or discordantly; of these:
+      4104938 mates make up the pairs; of these:
+        2342876 (57.07%) aligned 0 times
+        1518130 (36.98%) aligned exactly 1 time
+        243932 (5.94%) aligned >1 times
+95.26% overall alignment rate
+SRR16798083
+Ad-Gfb
+rep1
+20662377 reads; of these:
+  20662377 (100.00%) were paired; of these:
+    2691700 (13.03%) aligned concordantly 0 times
+    17239199 (83.43%) aligned concordantly exactly 1 time
+    731478 (3.54%) aligned concordantly >1 times
+    ----
+    2691700 pairs aligned concordantly 0 times; of these:
+      799860 (29.72%) aligned discordantly 1 time
+    ----
+    1891840 pairs aligned 0 times concordantly or discordantly; of these:
+      3783680 mates make up the pairs; of these:
+        2479219 (65.52%) aligned 0 times
+        1174914 (31.05%) aligned exactly 1 time
+        129547 (3.42%) aligned >1 times
+94.00% overall alignment rate
+SRR16798082
+Ad-Rbm10
+rep3
+22050515 reads; of these:
+  22050515 (100.00%) were paired; of these:
+    2880627 (13.06%) aligned concordantly 0 times
+    18297961 (82.98%) aligned concordantly exactly 1 time
+    871927 (3.95%) aligned concordantly >1 times
+    ----
+    2880627 pairs aligned concordantly 0 times; of these:
+      985099 (34.20%) aligned discordantly 1 time
+    ----
+    1895528 pairs aligned 0 times concordantly or discordantly; of these:
+      3791056 mates make up the pairs; of these:
+        1988538 (52.45%) aligned 0 times
+        1614910 (42.60%) aligned exactly 1 time
+        187608 (4.95%) aligned >1 times
+95.49% overall alignment rate
+SRR16798085
+Ad-Gfb
+rep3
+19419936 reads; of these:
+  19419936 (100.00%) were paired; of these:
+    3098706 (15.96%) aligned concordantly 0 times
+    15620272 (80.43%) aligned concordantly exactly 1 time
+    700958 (3.61%) aligned concordantly >1 times
+    ----
+    3098706 pairs aligned concordantly 0 times; of these:
+      890203 (28.73%) aligned discordantly 1 time
+    ----
+    2208503 pairs aligned 0 times concordantly or discordantly; of these:
+      4417006 mates make up the pairs; of these:
+        3028969 (68.58%) aligned 0 times
+        1247410 (28.24%) aligned exactly 1 time
+        140627 (3.18%) aligned >1 times
+92.20% overall alignment rate
+SRR16798084
+Ad-Gfb
+rep2
+21281180 reads; of these:
+  21281180 (100.00%) were paired; of these:
+    2946728 (13.85%) aligned concordantly 0 times
+    17558381 (82.51%) aligned concordantly exactly 1 time
+    776071 (3.65%) aligned concordantly >1 times
+    ----
+    2946728 pairs aligned concordantly 0 times; of these:
+      861121 (29.22%) aligned discordantly 1 time
+    ----
+    2085607 pairs aligned 0 times concordantly or discordantly; of these:
+      4171214 mates make up the pairs; of these:
+        2733509 (65.53%) aligned 0 times
+        1295083 (31.05%) aligned exactly 1 time
+        142622 (3.42%) aligned >1 times
+93.58% overall alignment rate
