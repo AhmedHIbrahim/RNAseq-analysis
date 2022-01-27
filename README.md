@@ -2,6 +2,8 @@
 
 ## RNAseq analysis
 
+Notion Report: https://tan-trip-6c9.notion.site/rnaseq-analysis-6e7cd51438f04432b35802a0817b7df8
+
 - **Background**
     
     > RBM10 (RNA Binding Motif Protein 10) is a Protein Coding gene. Its mutations are associated with various human diseases.[[ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2868995/)] The synthesized protein plays a role in regulating alternative splicing with hnRNA. In alternative splicing, different proteins can be translated from the same mRNA. Actually, RBM10 is highly conserved among mammals; the human RBM10 protein shares 96% and 97% aa sequence homology with that of mice and rats, respectively. [[ref](https://www.sciencedirect.com/science/article/pii/S0378111921000573)] In this project, **the goal** is to find the impact on Vascular Smooth Muscle Cells (VSMC) after treating them with Rbm10-associate adenovirus and controls. The VSMC are an important component of blood vessels; These cells are located in the medium part of a blood vessel [[ref](https://www.intechopen.com/books/muscle-cell-and-tissue-current-status-of-research-field/the-role-of-vascular-smooth-muscle-cells-in-the-physiology-and-pathophysiology-of-blood-vessels#:~:text=Vascular%20smooth%20muscle%20cells%20(VSMCs)%20are%20an%20important%20component%20of,lumen%20and%20form%20numerous%20layers.)]. RNA-binding motif protein 10 (RBM10) is reported to induce cell cycle arrest and apoptosis. Several studies have demonstrated that RBM10 exerts negative effects on tumor proliferation.[[ref](https://ngdc.cncb.ac.cn/gsa-human/browse/HRA000712)]
